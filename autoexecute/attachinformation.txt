@@ -1,2 +1,0 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "NIKYMETAA [Attached]", Text = "Final Bridge finished, you can execute script now !"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "NIKYMETAA [Attached]", Text = "Join discord.gg/niky for the official server."})
