@@ -14,7 +14,7 @@ Please note that the version of the software provided here was the *Old* source 
 ## Background
 Originally, this project was a maintained private and unfinished build of *Incognito*, yes you can call this project "(OLD) Incognito" or whatever you want to call.
 
-However, following a public leak of the *Incognito 1.1.6 dev Source", the source is most likely 
+However, following a public leak of the *Incognito 1.1.6 dev Source", the source is most likely won't work without changing offsets, fixing bridge, and a bit of modify in injection method so i fixed all of the problems and wanting to release it for anyone wanting to use
 
 ## License
 Please ensure you **[read and follow the license](/LICENSE.md)** associated with this project. The license outlines the permissible uses and restrictions for this code. Adhering to these terms is crucial for legal use and further development of the software.
