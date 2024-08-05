@@ -1,7 +1,7 @@
 # NIKYMETAA-Exec
 
 
-![nikymetaa](https://github.com/user-attachments/assets/2ab80228-b43c-4a87-9888-f930abd82b8e)
+https://github.com/user-attachments/assets/2ab80228-b43c-4a87-9888-f930abd82b8e
 
 
 A *Python Executor*, brought to you by nikymetaa and the (OLD) Development Team of *Incognito*
