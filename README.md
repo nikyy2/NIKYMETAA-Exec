@@ -1,10 +1,10 @@
 # NIKYMETAA-Exec
-
-
-[https://github.com/user-attachments/assets/2ab80228-b43c-4a87-9888-f930abd82b8e](https://github-production-user-asset-6210df.s3.amazonaws.com/158007947/355237863-2ab80228-b43c-4a87-9888-f930abd82b8e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T205307Z&X-Amz-Expires=300&X-Amz-Signature=66b5b2c082362eea89d7c0292c48ce44d4a0c4c9d1cb0873ae99394633b916e9&X-Amz-SignedHeaders=host&actor_id=158007947&key_id=0&repo_id=837818125)
-
-
 A *Python Executor*, brought to you by nikymetaa and the (OLD) Development Team of *Incognito*
+
+# showcase
+
+![nikymetaa](https://github.com/user-attachments/assets/5d2ea1e1-67a5-42db-8e02-9a9067a12058)
+
 
 ## Disclaimer
 Please note that the version of the software provided here was the *Old* source of Incognito Executor but fixed *bridge* and some of the old "Incognito" problems to execute more smoother. (You can say it like an *Optimized* version of "Incognito"
