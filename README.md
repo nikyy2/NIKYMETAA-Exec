@@ -1,6 +1,6 @@
 # NIKYMETAA-Exec
 A *Python Executor*, brought to you by nikymetaa and the (OLD) Development Team of *Incognito*
-
+[Join https://discord.gg/J7AjDFYA5m if can't install]
 # showcase
 
 ![nikymetaa](https://github.com/user-attachments/assets/5d2ea1e1-67a5-42db-8e02-9a9067a12058)
